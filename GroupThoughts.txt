@@ -1,0 +1,23 @@
+Here is my organizing place for thoughts on Groups
+
+
+Groups are groupings of people for certain things like Sunday School each Group may or may not be Sub grouped.
+Even subgroups could have subgroups
+
+For example, with Sunday School could be a group, while each individual class would be a group (elementary, Adult, etc...)
+also it would have the parent Group of Sunday School.  This would make the Elementary class a child group of the Sunday School
+Group.
+
+Another example might be Deacon care groups.  The Parent(base) group could be Deacon Care group.  With a child for each Deacon.
+People under the care of this deacon could be added to that group.  If the deacon chose he could create another group or
+groups under his group to kind of categorize the members of his group.  This is probably an example that is stretching this
+need a little to much but it does show the possability that could happen with Parents, children, grandchildren, and maybe
+even further as needed.  There should likely be some sort of limit to the depth of groupings.  BUt for the time being it
+is/will be unlimited.
+
+
+Groups can be/are
+    Departments (Childrens, Adults, Seniors, Outreach, Missions)
+    Organizations
+    Ministry areas
+    Classes

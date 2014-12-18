@@ -1,0 +1,28 @@
+The following is just a place to gather my thought regarding "Events" in the database.  I needed a place to gather and try
+to organize my thoughts on how to handle them.
+
+Events are/can be....
+    Classes (Sunday School, membership, other)
+    Group gatherings (Small Groups, Youth, other)
+    Conferences (Love & Respect, other)
+    Training
+
+Events can occur...
+    1 time
+    multiple times  ?These should be separate events?
+        varied occurrence
+        repeat scheduled occurrence
+
+Event attendance tracking can be...
+    strictly (per person basis)
+    loosely (just count)
+    none (no tracking at all)
+
+Event "ownership"...
+    Events can be "owned" (responsible for) by...
+        person
+        group
+        ?both?
+    ownership should be changeable
+    ?Should allow more than one concurrent owner?
+
